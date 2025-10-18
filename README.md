@@ -5,8 +5,10 @@ Internship Project:Digital Personal Life AI
 Objective:SmartLife360 AI is an intelligent personal manager that integrates finance tracking, health monitoring, and daily scheduling into one unified platform. It helps users make better life decisions using AI-driven insights and reminders.
 
 Team Members:
-Mohammed Mudassir 
-Nandha
+	Rishabh Singh,
+Aviral Nirgun,
+Mohammed Mudassir,
+Nandha.
   
 
 Internship Duration: 6 months
