@@ -25,6 +25,9 @@ Internship Duration: 6 months
 ---
 
 ## Notes
-
 - Repository currently holds project plan and documentation.  
 - Code and development files will be added in upcoming weeks as per internship progress.
+
+Communication & Documentation Tools Planning:
+team communication tool (WhatsApp, Discord)
+documentation tool (Google Docs / Notion)
